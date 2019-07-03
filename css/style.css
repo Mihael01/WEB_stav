@@ -1,0 +1,26 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Barriecito', cursive;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+}
+
+.sidebar {
+    width: 15%;
+    height: 700px;
+    background-color:rgb(114, 113, 113)
+}
+
+.profile-image {
+    width: 150px;
+}
+
+.main {
+    width: 85%;
+    /* height: 900px; */
+    background-color:rgb(185, 182, 182)
+}
